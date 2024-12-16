@@ -1,0 +1,7 @@
+body {
+  overflow-y: auto !important;
+}
+
+[aria-label="Main Feed"] {
+  display: none !important;
+}

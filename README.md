@@ -1,6 +1,5 @@
-## no-linkedin
+## no-linkedin-feed
 
-Displays a custom screen when you visit <https://linkedin.com>, does not mess
-with `/jobs`.
+A chrome extension that hides LinkedIn feed in the home page.
 
 ![custom linkedin screen](./screen.jpg)

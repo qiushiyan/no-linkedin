@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "build": "tsc",
-    "cp": "cp manifest.json template.html dist/"
+    "cp": "cp assets/* dist/"
   },
   "keywords": [],
   "author": "Qiushi Yan <qiushi.yan@gmail.com> (https://github.com/qiushiyan)",
